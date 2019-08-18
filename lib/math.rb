@@ -12,7 +12,7 @@ end
 
 
 def division(num1, num2)
-  div = num2 / num1
+  div = num1 / num2
   div
 
 end
@@ -26,7 +26,7 @@ end
 
 
 def modulo(num1, num2)
-  div_mod = num2 % num1
+  div_mod = num1 % num2
   div_mod
 
 end
