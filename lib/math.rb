@@ -33,7 +33,7 @@ end
 
 
 def square_root(num)
-  sqr_rt = Math.sqrt * num
+  sqr_rt = num.sqrt
   sqr_rt
 
 end
